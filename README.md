@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... full-stack web development in Javascript.
 - 💞️ I’m looking to collaborate on ... a fun project!
 - 📫 How to reach me ... jasminepvo.dev@gmail.com
-- 👩🏻‍💻 Old github... https://github.com/jasminevo
+- 👩🏻‍💻  Old github... https://github.com/jasminevo
 
 <!---
 jasminepvo/jasminepvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
