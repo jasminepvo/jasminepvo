@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasminepvo
-- 👀 I’m interested in ... mobile applications development.
-- 🌱 I’m currently learning ... React.
+- 👀 I’m interested in ... front-end, full-stack and mobile applications development.
+- 🌱 I’m currently learning ... full-stack web development in Javascript.
 - 💞️ I’m looking to collaborate on ... a fun project!
 - 📫 How to reach me ... jasminepvo.dev@gmail.com
 
