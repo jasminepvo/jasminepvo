@@ -1,34 +1,22 @@
-- 👋 Hi, I’m @jasminepvo
-- 👀 I’m interested in ... front-end, full-stack and mobile applications development.
-- 🌱 I’m currently learning ... full-stack web development in Javascript.
-- 💞️ I’m looking to collaborate on ... a fun project!
-- 📫 How to reach me ... jasminepvo.dev@gmail.com
-- 👩🏻‍💻  Old github... https://github.com/jasminevo
-
-<!---
-jasminepvo/jasminepvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Hi 👋, I'm Jasmine!</h1>
-<h3 align="center">A passionate full-stack developer from Atlanta</h3>
-
+<h3 align="center">A passionate front-end developer from Atlanta</h3>
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasminepvo&label=Profile%20views&color=0e75b6&style=flat" alt="jasminepvo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasminepvo" alt="jasminepvo" /></a> </p>
+--->
 
-- 🔭 I’m currently working on [Etch-A-Sketch](https://github.com/jasminepvo/etch-a-sketch)
+- 🌱 I’m currently working on [Etch-A-Sketch](https://github.com/jasminepvo/etch-a-sketch)
 
 - 👯 I’m looking to collaborate on an **Open Source Project**
 
 - 🤝 I just finished [Rock Paper Scissors](https://jasminepvo.github.io/rock-paper-scissors/)
 
-- 👨‍💻 All of my projects are available at [https://jasminepvo.dev](https://jasminepvo.dev)
+- 👨‍💻 All of my projects are available at [https://jasminepvo.dev](https://jasminepvo.dev) or old github... https://github.com/jasminevo
 
-- 📝 I regularly write articles on [https://linkedin.com/in/jasminepvo](https://linkedin.com/in/jasminepvo)
+- 📫 How to reach me... **jasminepvo.dev@gmail.com**
 
-- 📫 How to reach me **jasminepvo.dev@gmail.com**
-
-- ⚡ Fun fact **I sell real estate**
+- ⚡ Fun fact... **I sell real estate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
