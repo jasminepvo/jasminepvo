@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasminepvo" alt="jasminepvo" /></a> </p>
 --->
 
-- 🌱 I’m currently working on [Etch-A-Sketch](https://github.com/jasminepvo/etch-a-sketch)
+- 🌱 I’m currently working on [100Devs!](https://github.com/jasminepvo/100devs)
 
 - 👯 I’m looking to collaborate on an **Open Source Project**
 
-- 🤝 I just finished [Rock Paper Scissors](https://jasminepvo.github.io/rock-paper-scissors/)
+- 🤝 I just finished [Etch-A-Sketch](https://github.com/jasminepvo/etch-a-sketch) and [Rock Paper Scissors](https://jasminepvo.github.io/rock-paper-scissors/)
 
 - 👨‍💻 All of my projects are available at [https://jasminepvo.dev](https://jasminepvo.dev) or old github... https://github.com/jasminevo
 
