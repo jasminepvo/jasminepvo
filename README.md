@@ -1,3 +1,4 @@
+![](./github/gitartwork/gitartwork.svg)
 <h1 align="center">Hi 👋, I'm Jasmine!</h1>
 <h3 align="center">A passionate front-end developer from Atlanta</h3>
 <!---
