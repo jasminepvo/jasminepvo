@@ -8,9 +8,7 @@
 
 - 🌱 I’m currently working on [100Devs!](https://github.com/jasminepvo/100devs)
 
-- 👯 I’m looking to collaborate on an **Open Source Project**
-
-- 🤝 I just finished [Etch-A-Sketch](https://github.com/jasminepvo/etch-a-sketch) and [Rock Paper Scissors](https://jasminepvo.github.io/rock-paper-scissors/)
+- 👯 **Open Source Project** coming soon 👀
 
 - 👨‍💻 All of my projects are available at [https://jasminepvo.dev](https://jasminepvo.dev) or old github... https://github.com/jasminevo
 
