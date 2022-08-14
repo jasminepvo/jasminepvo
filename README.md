@@ -8,8 +8,8 @@
 
 
 - ⏳ Working on some MERN stack projects
-- 🤓 Sports and Pokemon nerd
-- ⚡ EV enthusiast
+- 🤓 Fitness and Food freak 
+- 🏡 I sell real estate
 - 🐓 Connect with me on <a href="https://twitter.com/jasminepvodev" target="_blank">Twitter</a>
 
 
