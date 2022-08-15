@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on MERN Full Stack with [100Devs](https://github.com/jasminepvo/100devs)
 
-- 👯 **Open Source Project** [Hot Soups](https://github.com/HotSoupRepos/HotSoup-frontend) + another one coming soon 👀
+- 👯 **Open Source Project** - [Hot Soups](https://github.com/HotSoupRepos/HotSoup-frontend) + another one coming soon 👀
 
 - 📫 How to reach me... **jasminepvo.dev@gmail.com**
 
