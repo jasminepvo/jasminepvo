@@ -12,11 +12,11 @@
   </a>
 </div>
 
-Looking to make an impact on the world through technology. 
+# Looking to make an impact on the world through technology. 
 
-- I’m currently working 
-
-- 👯 **Open Source Project** - [Hot Soups](https://github.com/HotSoupRepos/HotSoup-frontend) + another one coming soon 👀
+👯 **Open Source Contributor**: 
+- [Hot Soups](https://github.com/HotSoupRepos/HotSoup-frontend) - app that shows nearby soup kitchens
+- [FitDevs](https://github.com/FitDevs-withKat) - community meant to empower developers to explore, maintain, and inspire fitness in our collective lives
 
 
 ### Languages and Tools
