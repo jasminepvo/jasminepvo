@@ -33,6 +33,18 @@
   <a href="https://www.w3schools.com/react/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=white&labelColor=AD9D90&label=&message=REACT&color=AD9D90"/>
   </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=bootstrap&logoColor=white&labelColor=AD9D90&label=&message=BOOTSTRAP&color=AD9D90"/>
+  </a>
+  <a href="https://www.w3schools.com/sass/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=sass&logoColor=white&labelColor=AD9D90&label=&message=SASS&color=AD9D90"/>
+  </a>
+  <a href="https://www.w3schools.com/webpack/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=webpack&logoColor=white&labelColor=AD9D90&label=&message=WEBPACK&color=AD9D90"/>
+  </a>
+  <a href="https://www.w3schools.com/tailwind/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwind&logoColor=white&labelColor=AD9D90&label=&message=TAILWIND&color=AD9D90"/>
+  </a>
   <a href="https://www.w3schools.com/mongodb/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=mongodb&logoColor=white&labelColor=AD9D90&label=&message=MONGODB&color=AD9D90"/>
   </a>
@@ -42,26 +54,14 @@
   <a href="https://www.w3schools.com/nodejs/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=node&logoColor=white&labelColor=AD9D90&label=&message=NODE&color=AD9D90"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=bootstrap&logoColor=white&labelColor=AD9D90&label=&message=BOOTSTRAP&color=AD9D90"/>
-  </a>
-  <a href="https://www.w3schools.com/tailwind/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=tailwind&logoColor=white&labelColor=AD9D90&label=&message=TAILWIND&color=AD9D90"/>
-  </a>
-  <a href="https://www.w3schools.com/sass/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=sass&logoColor=white&labelColor=AD9D90&label=&message=SASS&color=AD9D90"/>
-  </a>
-  <a href="https://www.w3schools.com/python/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=python&logoColor=white&labelColor=AD9D90&label=&message=PYTHON&color=AD9D90"/>
-  </a>
   <a href="https://www.w3schools.com/aws/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=aws&logoColor=white&labelColor=AD9D90&label=&message=AWS&color=AD9D90"/>
   </a>
-  <a href="https://www.w3schools.com/webpack/" target="_blank">
-    <img src="https://img.shields.io/static/v1?&style=flat&logo=webpack&logoColor=white&labelColor=AD9D90&label=&message=WEBPACK&color=AD9D90"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=white&labelColor=AD9D90&label=&message=GIT&color=AD9D90"/>
+  </a>
+  <a href="https://www.w3schools.com/python/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=python&logoColor=white&labelColor=AD9D90&label=&message=PYTHON&color=AD9D90"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=cplusplus&logoColor=white&labelColor=AD9D90&label=&message=C++&color=AD9D90"/>
