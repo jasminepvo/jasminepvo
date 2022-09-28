@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/99847030/192158220-7bdabfbc-eb7e-482d-816c-06d1fff3ca5e.png" style="width=100%">
 
 <div style="display: flex; flex-direction: row;" align=center >
-  <a href="https://jasmiepvo.dev" target="_blank">
+  <a href="https://jasminepvo.dev" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=AD9D90&labelColor=white&label=&message=WEBSITE&color=AD9D90"/>
   </a>
   <a href="https://twitter.com/jasminepvodev" target="_blank">
