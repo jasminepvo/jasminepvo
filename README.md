@@ -14,9 +14,13 @@
 
 # Looking to make an impact on the world through technology. 
 
-👯 **Open Source Contributor**: 
-- [Hot Soups](https://github.com/HotSoupRepos/HotSoup-frontend) - app that shows nearby soup kitchens
-- [FitDevs](https://github.com/FitDevs-withKat) - community meant to empower developers to explore, maintain, and inspire fitness in our collective lives
+**Projects & Open Source Contributions**: 
+- [Hot Soups](https://github.com/HotSoupRepos/HotSoup-frontend) - Open sourced free mobile app that helps those in need of a free meal by locating nearby soup kitchens and food pantries.
+- [FitDevs](https://github.com/FitDevs-withKat) - Community meant to empower developers to explore, maintain, and inspire fitness in our collective lives. Open sourced projects such as a Twitter Bot, Discord Bot and Accountability Page. 
+- [Studyboard](https://studyboard.kyle-christian.repl.co) - Created by developers for developers to log in and apply pomodoro technique using a stopwatch feature to track working minutes spent developing or improving. Once logged, all tracked minutes will be pulled from the database and displayed & ranked on a leaderboard.
+  
+*Still in progress...*  
+- [AngelHope](https://github.com/jasminepvo/angelhope) - Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite.
 
 
 ### Languages and Tools
