@@ -21,6 +21,8 @@
   
 *Still in progress...*  
 - [AngelHope](https://github.com/jasminepvo/angelhope) - Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite.
+- [ChiroCMS](https://github.com/jasminepvo/chiro-cms) - Developing a landing page for a client that directs to a login page of a built in CMS(contact management system) with REST API's integration & features such as authentification, appointment setting, calendar view, notifications and newsletter to be updated by the admin using an admin dashboard. 
+
 
 
 ### Languages and Tools
