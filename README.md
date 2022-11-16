@@ -94,7 +94,7 @@
 
 <!-- ACTIVITY GRAPH TRACKER -->
 
-![Jasmine's github activity graph](https://activity-graph.herokuapp.com/graph?username=jasminepvo&theme=nord)
-
+<!-- ![Jasmine's github activity graph](https://activity-graph.herokuapp.com/graph?username=jasminepvo&theme=nord)
+ -->
 
 ![](gitartwork.svg)
