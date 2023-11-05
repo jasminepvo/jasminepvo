@@ -15,24 +15,13 @@
 # Looking to make an impact on the world through technology. 
 
 **Projects & Open Source Contributions**: 
-- [HotSoup](https://github.com/HotSoupRepos/HotSoup-frontend) - Open sourced free mobile app that helps those in need of a free meal by locating nearby soup kitchens and food pantries.
-- [FitDevs](https://github.com/FitDevs-withKat) - Community meant to empower developers to explore, maintain, and inspire fitness in our collective lives. Open sourced projects such as a Twitter Bot, Discord Bot and Accountability Page. 
-- [StudyBoard](https://studyboard.kyle-christian.repl.co) - Created by developers for developers to log in and apply pomodoro technique using a stopwatch feature to track working minutes spent developing or improving. Once logged, all tracked minutes will be pulled from the database and displayed & ranked on a leaderboard.
-  
-*Still in progress...*  
-- [AngelHope](https://github.com/jasminepvo/angelhope) - Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite.
-- [ChiroCMS](https://github.com/jasminepvo/chirocms) - Developing a landing page for a client that directs to a login page of a built in CMS(contact management system) with REST API's integration & features such as authentification, appointment setting, calendar view, notifications and newsletter to be updated by the admin using an admin dashboard.
-
-<!---
-## Project Showcase
-
 | 🖼 Screenshot | 📜 Project | 🛠 Technologies | 📖 Description |
 |---|---|---|---|
-| <img src="link-to-image-1.png" width="100"> | [Project 1 Name](link-to-project-1) | `React` `Node.js` | A short and sweet description of what makes Project 1 special. Let's sprinkle some magic! ✨ |
-| <img src="link-to-image-2.png" width="100"> | [Project 2 Name](link-to-project-2) | `Vue.js` `Firebase` | Dive into the details of Project 2, where dreams come to code! 🌟 |
-| <img src="link-to-image-3.png" width="100"> | [Project 3 Name](link-to-project-3) | `Angular` `MongoDB` | Discover the wonders of Project 3, a blend of creativity and logic. 💡 |
-| <img src="link-to-image-4.png" width="100"> | [Project 4 Name](link-to-project-4) | `Python` `Flask` | Explore the depths of Project 4, where each line of code tells a story. 📚 |
---->
+| <img width="250" alt="Screenshot 2023-11-04 at 8 16 34 PM" src="https://github.com/jasminepvo/jasminepvo/assets/99847030/0406584f-4745-45ee-998f-34cf0eaad352" > | [Phoummavong Chiropractic & Rehab](https://phoummavongchiropractic.com) | `Astro` `Tailwind` `React` | 100 Page Speed score on Performance, SEO, Best Practices and Accessibility ✨ |
+| <img  width="250" src="https://cdn.sanity.io/images/m6yx174i/production/a6e8c848865b4e322fd47c0b8b54c9c962542ee8-600x390.gif"> | [StudyBoard](https://studyboard.kyle-christian.repl.co) | `HTML5` `Material Design` `MongoDB` `Express` `Node.js` | Created by developers for developers to log in and apply pomodoro technique using a stopwatch feature to track working minutes spent developing or improving. Once logged, all tracked minutes will be pulled from the database and displayed & ranked on a leaderboard 📚 |
+| <img width="250" alt="Screenshot 2023-11-04 at 8 24 07 PM" src="https://github.com/jasminepvo/jasminepvo/assets/99847030/9134e402-6f39-489e-8a66-f88383abf0b8"> | [HotSoup](https://github.com/HotSoupRepos/HotSoup-frontend) | `React` `Material UI` | Open sourced free mobile app that helps those in need of a free meal by locating nearby soup kitchens and food pantries 🍱  |
+| <img  width="250" src="https://cdn.sanity.io/images/m6yx174i/production/ccbd95b052213e24ab4375b093132d4fc7709aa7-600x390.gif"> | [AngelHope](https://github.com/jasminepvo/angelhope) | `HTML5` `CSS` `Javascript` `Google Spreadsheets API` | Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite 🌟 |
+| <img  width="150" height="150" src="https://github.com/jasminepvo/jasminepvo/assets/99847030/6a6ed319-db7e-4955-af8f-715d06c829cf"> | [FitDevs](https://github.com/FitDevs-withKat) | `Next.js` `MongoDB` | Community meant to empower developers to explore, maintain, and inspire fitness in our collective lives. Open sourced projects such as a Twitter Bot, Discord Bot and Accountability Page 💪🏼 |
 
 
 
