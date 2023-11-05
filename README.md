@@ -87,14 +87,15 @@
 </div>
 
 ## My GitHub Stats
+<!-- ACTIVITY GRAPH TRACKER -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=jasminepvo&theme=humoris&border_radius=20&card_width=1000)](https://git.io/streak-stats)
+
+<!-- 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=jasminepvo&theme=nord&show_icons=true&locale=en&border_radius=4" alt="jasminepvo" />
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=jasminepvo&theme=nord&border_radius=4&layout=compact" alt="jasminepvo" />
 </div>
-
-<!-- ACTIVITY GRAPH TRACKER -->
-
-<!-- ![Jasmine's github activity graph](https://activity-graph.herokuapp.com/graph?username=jasminepvo&theme=nord)
+![Jasmine's github activity graph](https://activity-graph.herokuapp.com/graph?username=jasminepvo&theme=nord)
  -->
 
 ![](gitartwork.svg)
