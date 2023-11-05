@@ -21,7 +21,18 @@
   
 *Still in progress...*  
 - [AngelHope](https://github.com/jasminepvo/angelhope) - Landing page to collect user interest metrics for AngelHope, a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite.
-- [ChiroCMS](https://github.com/jasminepvo/chirocms) - Developing a landing page for a client that directs to a login page of a built in CMS(contact management system) with REST API's integration & features such as authentification, appointment setting, calendar view, notifications and newsletter to be updated by the admin using an admin dashboard. 
+- [ChiroCMS](https://github.com/jasminepvo/chirocms) - Developing a landing page for a client that directs to a login page of a built in CMS(contact management system) with REST API's integration & features such as authentification, appointment setting, calendar view, notifications and newsletter to be updated by the admin using an admin dashboard.
+
+<!---
+## Project Showcase
+
+| 🖼 Screenshot | 📜 Project | 🛠 Technologies | 📖 Description |
+|---|---|---|---|
+| <img src="link-to-image-1.png" width="100"> | [Project 1 Name](link-to-project-1) | `React` `Node.js` | A short and sweet description of what makes Project 1 special. Let's sprinkle some magic! ✨ |
+| <img src="link-to-image-2.png" width="100"> | [Project 2 Name](link-to-project-2) | `Vue.js` `Firebase` | Dive into the details of Project 2, where dreams come to code! 🌟 |
+| <img src="link-to-image-3.png" width="100"> | [Project 3 Name](link-to-project-3) | `Angular` `MongoDB` | Discover the wonders of Project 3, a blend of creativity and logic. 💡 |
+| <img src="link-to-image-4.png" width="100"> | [Project 4 Name](link-to-project-4) | `Python` `Flask` | Explore the depths of Project 4, where each line of code tells a story. 📚 |
+--->
 
 
 
@@ -83,7 +94,25 @@
   </a>
   <a href="https://dev.mysql.com/doc/" target="_blank">
     <img src="https://img.shields.io/static/v1?&style=flat&logo=mysql&logoColor=white&labelColor=AD9D90&label=&message=MYSQL&color=AD9D90"/>
+  </a> 
+  <a href="https://astro.build" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=astro&logoColor=white&labelColor=AD9D90&label=&message=ASTRO&color=AD9D90"/>
+  </a>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=next.js&logoColor=white&labelColor=AD9D90&label=&message=NEXTJS&color=AD9D90"/>
   </a>  
+  <a href="https://gatsbyjs.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=gatsby&logoColor=white&labelColor=AD9D90&label=&message=GATSBYJS&color=AD9D90"/>
+  </a>
+  <a href=https://www.graphql.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=graphql&logoColor=white&labelColor=AD9D90&label=&message=GRAPHQL&color=AD9D90"/>
+  </a>
+  <a href="https://datocms.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=datocms&logoColor=white&labelColor=AD9D90&label=&message=DATOCMS&color=AD9D90"/>
+  </a>
+  <a href=https://www.sanity.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=sanity&logoColor=white&labelColor=AD9D90&label=&message=SANITY&color=AD9D90"/>
+  </a>
 </div>
 
 ## My GitHub Stats
