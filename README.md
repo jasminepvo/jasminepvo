@@ -41,7 +41,6 @@ With over 3 years of professional software engineering experience, I now focus o
 |------|---------|-------------|------------|------|
 | <img  width="150" src="https://user-images.githubusercontent.com/99847030/202867572-11d8e671-1b58-4015-b5e1-2dc7b967b02b.gif"> | Mood Journal | Simple mood logging web app to help users reflect on emotions. Hackathon team project. | `HTML` `TailwindCSS` `Javascript` `Express` `Node.js` `MongoDB`| [GitHub](https://github.com/jasminepvo/mood-colors) |
 | <img  width="150" src="https://cdn.sanity.io/images/m6yx174i/production/a6e8c848865b4e322fd47c0b8b54c9c962542ee8-600x390.gif"> | StudyBoard | Pomodoro web app with a leaderboard—track and compete on productive dev minutes. | `HTML5` `Material Design` `MongoDB` `Express` `Node.js` | [Github](https://github.com/jasminepvo/studyboard)
-| <img width="150" alt="Screenshot 2023-11-04 at 8 24 07 PM" src="https://github.com/jasminepvo/jasminepvo/assets/99847030/9134e402-6f39-489e-8a66-f88383abf0b8"> | HotSoup | Mobile app to locate nearby soup kitchens and food pantries offering a free meal to those in need | `React` `Material UI` | [Github](https://github.com/jasminepvo/angelhope)
 | <img  width="150" src="https://cdn.sanity.io/images/m6yx174i/production/ccbd95b052213e24ab4375b093132d4fc7709aa7-600x390.gif"> | AngelHope | Collect user interest for a tech that allows nightlife clientele to report sexual harassment in real time to trained staff onsite 🌟 | `HTML5` `CSS` `Javascript` `Google Spreadsheets API` | [Github](https://github.com/jasminepvo/angelhope)
 | <img  width="100" height="100" align="center" src="https://github.com/jasminepvo/jasminepvo/assets/99847030/6a6ed319-db7e-4955-af8f-715d06c829cf"> | FitDevs | Community for devs  to explore, maintain, and inspire fitness in our collective lives. Open sourced projects such as a Twitter Bot, Discord Bot and Accountability Page 💪🏼 | `Next.js` `MongoDB` | [Github](https://github.com/FitDevs-withKat)
 
@@ -56,7 +55,7 @@ With over 3 years of professional software engineering experience, I now focus o
   Where I learned Git and version control
 - **[100Devs](https://100devs.org/about/)**  
   Where I joined an inspiring community and completed a full-stack career training program.
-- **[100Devs Github Diary/Dev Log](https://github.com/jasminepvo/100devs)**  
+- **[Github Diary/Dev Log](https://github.com/jasminepvo/code-journal)**  
   Where I tracked my day-to-day learning from career switch to software engineer. Regular logging fueled my growth, confidence, and inspired me to build WinWheel—celebrating every small win along the way.
 
 ---
