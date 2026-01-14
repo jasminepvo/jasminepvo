@@ -2,7 +2,7 @@
 
 # Hi, I'm Jasmine ☺️
 
-Front-End Software Engineer | Content Creator | Community Builder  
+Front-End Software Developer | Content Creator | Community Builder  
 Empowering others to grow, learn, and win in and out of tech.
 
 ---
@@ -22,7 +22,7 @@ With over 3 years of professional software engineering experience, I now focus o
 - **[React Components Library (Web App)](https://react-jasminepvo.netlify.app/)**  
   A living, continually updated resource housing reusable React components from real projects and experimentation.
 
-- **[MealPrepFriend (Mobile First App)](https://mealprepfriend.netlify.app/onboarding/user-details)**  
+- **[MealPrepFriend (Mobile First App In Progress)](https://mealprepfriend.netlify.app/onboarding/user-details)**  
   Nutrition and meal-prepping assistant app, designed to help my mom and now evolving to help others practice healthy habits (learning React Native).
 
 ---
