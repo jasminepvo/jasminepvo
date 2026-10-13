@@ -9,14 +9,17 @@ Empowering others to grow, learn, and win in and out of tech.
 
 ## 👩🏻‍💻 About Me
 
-With over 3 years of professional software engineering experience, I now focus on building elegant, impactful projects and creating content to uplift and inspire the tech community. You’ll find me sharing in my *Saturday Series* (tech book recaps, AI engineering explorations, and documenting builds beyond the 9-5).  
+With over 4 years of professional software engineering experience, I now focus on building elegant, impactful projects and creating content to uplift and inspire the tech community. You’ll find me sharing in my *Saturday Series* (tech book recaps, AI engineering explorations, and documenting builds beyond the 9-5).  
 **Visualizing growth, sparking confidence, and making tech a more inclusive, empowering space for all**.
 
 ---
 
 ## 🚀 Currently Building
 
-- **[WinWheel (Web App + Mobile Coming 🔜)](https://thewinwheel.netlify.app/)**  
+- **[MicroMoments (Web + Mobile App)](https://micromoments.app/)**  
+  The app for intentionally becoming - set big goals, document small actions along the way and live in alignment.
+  
+- **[WinWheel (Web App)](https://thewinwheel.netlify.app/)**  
   Track and visualize your daily, weekly, and monthly wins. This project is a tool for reinforcing a growth mindset and increasing self-confidence.
   
 - **[React Components Library (Web App)](https://react-jasminepvo.netlify.app/)**  
